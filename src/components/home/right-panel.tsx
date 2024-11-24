@@ -31,7 +31,7 @@ const RightPanel = () => {
 						</div>
 					</div>
 
-					<div className='flex items-center gap-7 mr-5'>
+					<div className='flex items-center gap-6 mr-5'>
 						<a href='/video-call' target='_blank'>
 							<Video size={23} />
 						</a>
